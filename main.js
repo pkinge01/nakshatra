@@ -93,7 +93,7 @@
   //for tooltip
   $('[data-toggle="tooltip"]').tooltip();
 
-  //tooltip active
+  //for tooltip active
   $(".action_links ul li a, .quick_button a").tooltip({
     animated: "fade",
     placement: "top",
@@ -142,7 +142,7 @@
     ],
   });
 
-  // blog section
+  // for blog section
   $(".blog_column3").owlCarousel({
     autoplay: true,
     loop: true,
@@ -169,7 +169,7 @@
     },
   });
 
-  //navactive responsive
+  //for navactive responsive
   $(".product_navactive").owlCarousel({
     autoplay: false,
     loop: true,
