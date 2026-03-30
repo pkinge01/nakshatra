@@ -12,7 +12,7 @@
     $(".mini_cart").removeClass("active");
   });
 
-  //code for sticky navbar
+  //sticky navbar
   $(window).on("scroll", function () {
     var scroll = $(window).scrollTop();
     if (scroll < 100) {
