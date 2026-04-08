@@ -3,7 +3,7 @@
 
   new WOW().init();
 
-  //navbar cart
+  // Navbar cart
   $(".cart_link > a").on("click", function () {
     $(".mini_cart").addClass("active");
   });
