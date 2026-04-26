@@ -12,7 +12,7 @@
     $(".mini_cart").removeClass("active");
   });
 
-  //sticky navbar
+  //sticky navbar function 
   $(window).on("scroll", function () {
     var scroll = $(window).scrollTop();
     if (scroll < 100) {
