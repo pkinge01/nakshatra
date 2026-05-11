@@ -36,7 +36,7 @@
     dataBackgroundImage();
   });
 
-  //for carousel slider of the slider section
+  //for carousel slider of slider section
   $(".slider_area").owlCarousel({
     animateOut: "fadeOut",
     autoplay: true,
